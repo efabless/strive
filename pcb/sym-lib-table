@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name striVe_pcb)(type Legacy)(uri ${KIPRJMOD}/striVe_pcb.lib)(options "")(descr ""))
+)
