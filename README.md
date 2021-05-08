@@ -1,1 +1,1 @@
-# STRIVE SoC Development Board Design Information and Related Documentation
+# STRIVE SoC Development Board Design & Documentation
