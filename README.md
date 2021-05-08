@@ -1,3 +1,3 @@
-# STRIVE SoC Development Board Design & Documentation
+# striVe SoC Development Board Design & Documentation
 
 ------>>>> WORK IN PROGRESS <<<<-------
